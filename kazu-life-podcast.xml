@@ -48,7 +48,7 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/FgwXMmzsizOvEvqbWnF5HMKtd2YEUGccs07t15wc.jpg" />
     </item>
-     <item>
+    <item>
       <title>03.脱税をした先輩の話</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
@@ -59,6 +59,18 @@
       <itunes:duration>803</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/AboTgRli0MeFuNcGamc2cP7Ic4RpzWsBrOofUtqp.jpg" />
+    </item>
+    <item>
+      <title>04.100万円の補填をしました。</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+      <description>質問箱👉️https://mond.how/ja/kazu_one</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/24.100%E4%B8%87%E5%86%86%E3%81%AE%E8%A3%9C%E5%A1%AB%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB.mp3" length="14167296" type="audio/mpeg"/>
+      <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/24.100%E4%B8%87%E5%86%86%E3%81%AE%E8%A3%9C%E5%A1%AB%E3%82%92%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB.mp3</guid>
+      <pubDate>Fri, 07 Nov 2025 22:00:00 GMT</pubDate>
+      <itunes:duration>708</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/4xy48SdoyebY5SA1Okl69ppVwWxyJSSyOXDfwkAC.jpg" />
     </item>
   </channel>
 </rss>
