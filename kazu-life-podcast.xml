@@ -121,97 +121,85 @@
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/lmQ3bJgHsqjSK7Se2SC2z2mQNyOgwmSrzJ6ig5DI.jpg" />
     </item>
     <item>
-      <title>09.『マインドシェア』</title>
-      <itunes:author>かず</itunes:author>
-      <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
-      <description>質問箱👉️https://mond.how/ja/kazu_one</description>
-      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/06.%E3%80%8E%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%8F_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="9872064" type="audio/mpeg"/>
-      <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/06.%E3%80%8E%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B7%E3%82%A7%E3%82%A2%E3%80%8F_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Wed, 12 Nov 2025 22:00:00 GMT</pubDate>
-      <itunes:duration>494</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/0lYVtjZyUiBANljK1QbERTZ75aE4BtqNQadWnJa6.jpg" />
-    </item>
-    <item>
-      <title>10.昨日、15万円をかけて会食に行ってきました。</title>
+      <title>09.昨日、15万円をかけて会食に行ってきました。</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/07.%E6%98%A8%E6%97%A5%E3%80%8115%E4%B8%87%E5%86%86%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E4%BC%9A%E9%A3%9F%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="15753600" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/07.%E6%98%A8%E6%97%A5%E3%80%8115%E4%B8%87%E5%86%86%E3%82%92%E3%81%8B%E3%81%91%E3%81%A6%E4%BC%9A%E9%A3%9F%E3%81%AB%E8%A1%8C%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Thu, 13 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Wed, 12 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>788</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Z7bNR88TzH4ARHEzLmoVbPI1ljUf4uyi0rEmHXe5.jpg" />
     </item>
     <item>
-      <title>11.ホリエモンと会った感想</title>
+      <title>10.ホリエモンと会った感想</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/08.%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%A8%E4%BC%9A%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="12600576" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/08.%E3%83%9B%E3%83%AA%E3%82%A8%E3%83%A2%E3%83%B3%E3%81%A8%E4%BC%9A%E3%81%A3%E3%81%9F%E6%84%9F%E6%83%B3_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Fri, 14 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Thu, 13 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>630</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/QofGbze9QyAKg21iZZKr2Cn2WvkbLZTw92iJ7NDO.jpg" />
     </item>
     <item>
-      <title>12.今までで1番印象に残ってる生徒さん</title>
+      <title>11.今までで1番印象に残ってる生徒さん</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/09.%E4%BB%8A%E3%81%BE%E3%81%A7%E3%81%A71%E7%95%AA%E5%8D%B0%E8%B1%A1%E3%81%AB%E6%AE%8B%E3%81%A3%E3%81%A6%E3%82%8B%E7%94%9F%E5%BE%92%E3%81%95%E3%82%93_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="20788416" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/09.%E4%BB%8A%E3%81%BE%E3%81%A7%E3%81%A71%E7%95%AA%E5%8D%B0%E8%B1%A1%E3%81%AB%E6%AE%8B%E3%81%A3%E3%81%A6%E3%82%8B%E7%94%9F%E5%BE%92%E3%81%95%E3%82%93_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Sat, 15 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Fri, 14 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>1039</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/BjvarK1A13oJxch5vlocMuaHqI2krY6MzdJgz88b.jpg" />
     </item>
     <item>
-      <title>13.『先読み』</title>
+      <title>12.『先読み』</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/10.%E3%80%8E%E5%85%88%E8%AA%AD%E3%81%BF%E3%80%8F_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17736192" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/10.%E3%80%8E%E5%85%88%E8%AA%AD%E3%81%BF%E3%80%8F_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Sun, 16 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Sat, 15 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>887</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/wTu0dtGqXQW4KRqWSeIFPGipbAHXhl07xrSrYdpF.jpg" />
     </item>
     <item>
-      <title>14.トップランナーはみんなアングラ出身</title>
+      <title>13.トップランナーはみんなアングラ出身</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/11.%E3%83%88%E3%83%83%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E5%87%BA%E8%BA%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="12582912" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/11.%E3%83%88%E3%83%83%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E5%87%BA%E8%BA%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Mon, 17 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Sun, 16 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>629</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8fcefiQeyTM7kWnzrmoY1x3Hr12daK8YFM7Bn48B.jpg" />
     </item>
     <item>
-      <title>15."かずAI"を作りました</title>
+      <title>14."かずAI"を作りました</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/12.%E2%80%9D%E3%81%8B%E3%81%9AAI%E2%80%9D%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17825792" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/12.%E2%80%9D%E3%81%8B%E3%81%9AAI%E2%80%9D%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Tue, 18 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Mon, 17 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>891</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/koLvAAbJc7pkolxbjFsLzBFBTBooUBCJu8MYHglk.jpg" />
     </item>
     <item>
-      <title>16.投資の順番</title>
+      <title>15.投資の順番</title>
       <itunes:author>かず</itunes:author>
       <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
       <description>質問箱👉️https://mond.how/ja/kazu_one</description>
       <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/13.%E6%8A%95%E8%B3%87%E3%81%AE%E9%A0%86%E7%95%AA_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="15728640" type="audio/mpeg"/>
       <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/13.%E6%8A%95%E8%B3%87%E3%81%AE%E9%A0%86%E7%95%AA_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-      <pubDate>Wed, 19 Nov 2025 22:00:00 GMT</pubDate>
+      <pubDate>Tue, 18 Nov 2025 22:00:00 GMT</pubDate>
       <itunes:duration>786</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ngRkAqRnR9lzM3LuY2SP8QDLPMIE0F1bb69UiKOo.jpg" />
