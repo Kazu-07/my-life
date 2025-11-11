@@ -96,5 +96,17 @@
 　　　<itunes:explicit>no</itunes:explicit>
 　　　<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TItnsWXAX8FcHR2uNjePbsDiv9EYm9PdXxSw5taj.jpg" />
 　　</item>
+   <item>
+　　　<title>07.群れるな。孤独になれ。</title>
+　　　<itunes:author>かず</itunes:author>
+　　　<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+　　　<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+　　　<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/04.%E7%BE%A4%E3%82%8C%E3%82%8B%E3%81%AA%E3%80%82%E5%AD%A4%E7%8B%AC%E3%81%AB%E3%81%AA%E3%82%8C%E3%80%82.mp3" length="20082816" type="audio/mpeg"/>
+　　　<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/04.%E7%BE%A4%E3%82%8C%E3%82%8B%E3%81%AA%E3%80%82%E5%AD%A4%E7%8B%AC%E3%81%AB%E3%81%AA%E3%82%8C%E3%80%82.mp3</guid>
+　　　<pubDate>Mon, 10 Nov 2025 22:00:00 GMT</pubDate>
+　　　<itunes:duration>1004</itunes:duration>
+　　　<itunes:explicit>no</itunes:explicit>
+　　　<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/7KKXSrwerVk7BIjQkdBevyJj0jPvyV0ox2hTZRwk.jpg" />
+　　</item>
   　</channel>
 </rss>
