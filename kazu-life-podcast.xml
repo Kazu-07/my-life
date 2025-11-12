@@ -108,5 +108,17 @@
 　　　<itunes:explicit>no</itunes:explicit>
 　　　<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/7KKXSrwerVk7BIjQkdBevyJj0jPvyV0ox2hTZRwk.jpg" />
 　　</item>
+   <item>
+　　<title>08.今後、無料で外部協業するのはやめます</title>
+　　<itunes:author>かず</itunes:author>
+　　<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+　　<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+　　<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/05.%E4%BB%8A%E5%BE%8C%E3%80%81%E7%84%A1%E6%96%99%E3%81%A7%E5%A4%96%E9%83%A8%E5%8D%94%E6%A5%AD%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%82%84%E3%82%81%E3%81%BE%E3%81%99_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="14908032" type="audio/mpeg"/>
+　　<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/05.%E4%BB%8A%E5%BE%8C%E3%80%81%E7%84%A1%E6%96%99%E3%81%A7%E5%A4%96%E9%83%A8%E5%8D%94%E6%A5%AD%E3%81%99%E3%82%8B%E3%81%AE%E3%81%AF%E3%82%84%E3%82%81%E3%81%BE%E3%81%99_%E3%83%AA%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+　　<pubDate>Tue, 11 Nov 2025 22:00:00 GMT</pubDate>
+　　<itunes:duration>745</itunes:duration>
+　　<itunes:explicit>no</itunes:explicit>
+　　<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/lmQ3bJgHsqjSK7Se2SC2z2mQNyOgwmSrzJ6ig5DI.jpg" />
+　　</item>
   　</channel>
 </rss>
