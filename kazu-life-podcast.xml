@@ -168,5 +168,17 @@
   <itunes:explicit>no</itunes:explicit>
   <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/wTu0dtGqXQW4KRqWSeIFPGipbAHXhl07xrSrYdpF.jpg" />
  </item>
-  　</channel>
+  <item>
+<title>13.トップランナーはみんなアングラ出身</title>
+ <itunes:author>かず</itunes:author>
+ <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+ <description>質問箱👉️https://mond.how/ja/kazu_one</description>
+ <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/11.%E3%83%88%E3%83%83%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E5%87%BA%E8%BA%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="12582912" type="audio/mpeg"/>
+ <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/11.%E3%83%88%E3%83%83%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8A%E3%83%BC%E3%81%AF%E3%81%BF%E3%82%93%E3%81%AA%E3%82%A2%E3%83%B3%E3%82%B0%E3%83%A9%E5%87%BA%E8%BA%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+ <pubDate>Sun, 16 Nov 2025 22:00:00 GMT</pubDate>
+ <itunes:duration>629</itunes:duration>
+ <itunes:explicit>no</itunes:explicit>
+ <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8fcefiQeyTM7kWnzrmoY1x3Hr12daK8YFM7Bn48B.jpg" />
+ </item>
+ </channel>
 </rss>
