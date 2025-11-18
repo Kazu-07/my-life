@@ -180,5 +180,17 @@
  <itunes:explicit>no</itunes:explicit>
  <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8fcefiQeyTM7kWnzrmoY1x3Hr12daK8YFM7Bn48B.jpg" />
  </item>
+  <item>
+<title>14."かずAI"を作りました</title>
+<ns0:author>かず</ns0:author>
+<ns0:summary>質問箱👉️https://mond.how/ja/kazu_one</ns0:summary>
+<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/12.%E2%80%9D%E3%81%8B%E3%81%9AAI%E2%80%9D%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17825792" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/12.%E2%80%9D%E3%81%8B%E3%81%9AAI%E2%80%9D%E3%82%92%E4%BD%9C%E3%82%8A%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Mon, 17 Nov 2025 22:00:00 GMT</pubDate>
+<ns0:duration>891</ns0:duration>
+<ns0:explicit>no</ns0:explicit>
+<ns0:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/koLvAAbJc7pkolxbjFsLzBFBTBooUBCJu8MYHglk.jpg" />
+</item>
  </channel>
 </rss>
