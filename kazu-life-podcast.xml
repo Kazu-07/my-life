@@ -192,5 +192,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/koLvAAbJc7pkolxbjFsLzBFBTBooUBCJu8MYHglk.jpg" />
 </item>
+  <item>
+<title>15.投資の順番</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/13.%E6%8A%95%E8%B3%87%E3%81%AE%E9%A0%86%E7%95%AA_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="15728640" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/13.%E6%8A%95%E8%B3%87%E3%81%AE%E9%A0%86%E7%95%AA_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Tue, 18 Nov 2025 22:00:00 GMT</pubDate>
+<itunes:duration>786</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ngRkAqRnR9lzM3LuY2SP8QDLPMIE0F1bb69UiKOo.jpg" />
+</item>
  </channel>
 </rss>
