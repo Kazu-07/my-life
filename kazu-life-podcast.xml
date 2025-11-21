@@ -216,5 +216,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/c3MQ9zp8Sqc7thSOaNGutyz9Z3d069wTDofqw9c9.jpg" />
 </item>
+    <item>
+<title>17.3匹目のドジョウ戦略</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/15.%EF%BC%93%E5%8C%B9%E7%9B%AE%E3%81%AE%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A6%E6%88%A6%E7%95%A5_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="14512320" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/15.%EF%BC%93%E5%8C%B9%E7%9B%AE%E3%81%AE%E3%83%89%E3%82%B8%E3%83%A7%E3%82%A6%E6%88%A6%E7%95%A5_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Thu, 20 Nov 2025 22:00:00 GMT</pubDate>
+<itunes:duration>726</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Wkqfdf6y4RhZi8BsDvZDHwuEnFSgVDdkWNFFB0HN.jpg" />
+</item>
  </channel>
 </rss>
