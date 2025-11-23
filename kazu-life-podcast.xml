@@ -240,5 +240,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/4qUn17DTkAlIJl4KwdnktRU1rBq7nMz9dTAgop3W.jpg" />
 </item>
+    <item>
+<title>19.1000万コンサル</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+<description>質問箱👉️https://mond.how/ja/kazu_one</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/17.1000%E4%B8%87%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17013888" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/17.1000%E4%B8%87%E3%82%B3%E3%83%B3%E3%82%B5%E3%83%AB_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Sat, 22 Nov 2025 22:00:00 GMT</pubDate>
+<itunes:duration>851</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/7W7DLmzRLFZrO0iu8akPfqPm9fNKVMSDBJ4UAuQE.jpg" />
+</item>
  </channel>
 </rss>
