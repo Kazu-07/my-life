@@ -408,5 +408,17 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TzmK2Pvc2rrWU5UI9GWm3dDezfNmk2TCS8vrY6Xh.jpg" />
     </item>
+  <item>
+      <title>34.仕事が人生の全てである</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>質問箱👉️https://mond.how/ja/kazu_one</itunes:summary>
+      <description>質問箱👉️https://mond.how/ja/kazu_one</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/34.%E4%BB%95%E4%BA%8B%E3%81%8C%E4%BA%BA%E7%94%9F%E3%81%AE%E5%85%A8%E3%81%A6%E3%81%A7%E3%81%82%E3%82%8B_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="16217856" type="audio/mpeg"/>
+      <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/34.%E4%BB%95%E4%BA%8B%E3%81%8C%E4%BA%BA%E7%94%9F%E3%81%AE%E5%85%A8%E3%81%A6%E3%81%A7%E3%81%82%E3%82%8B_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+      <pubDate>Sun, 07 Dec 2025 22:00:00 GMT</pubDate>
+      <itunes:duration>675</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/SXFaCKANDMxHX0ytjnFR5etGzGf9Cfjmv0mUwT0p.jpg" />
+    </item>
 </channel>
 </rss>
