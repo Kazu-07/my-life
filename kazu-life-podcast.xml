@@ -468,5 +468,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/3vyO3YjBtKQakFkj9Ulx4JOM11DAiqGvkzhOndFe.jpg" />
 </item>
+<item>
+<title>38.人生の無駄だった時間</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>質問箱👉️https://mond.how/ja/kazu_one&#10;北海道オフ会👉️https://utage-system.com/p/9af0CTa1V8bD</itunes:summary>
+<description><![CDATA[質問箱👉️https://mond.how/ja/kazu_one<br/>北海道オフ会👉️https://utage-system.com/p/9af0CTa1V8bD]]></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/38.%E4%BA%BA%E7%94%9F%E3%81%AE%E7%84%A1%E9%A7%84%E3%81%A0%E3%81%A3%E3%81%9F%E6%99%82%E9%96%93_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="20035584" type="audio/mpeg"/>
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/38.%E4%BA%BA%E7%94%9F%E3%81%AE%E7%84%A1%E9%A7%84%E3%81%A0%E3%81%A3%E3%81%9F%E6%99%82%E9%96%93_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Fri, 12 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>834</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/l0Js2aZW2e7hwr5jB4EpMjG2GHK9SKZTgWvQcsqm.jpg" />
+</item>
  </channel>
 </rss>
