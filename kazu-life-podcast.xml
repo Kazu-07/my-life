@@ -514,5 +514,15 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/j8vtkCo551n7QdiiLazRnW5uSOpltzBONb1NluDX.jpg" />
 </item>
+<item>
+<title>42.僕が最近大事にしているもの</title>
+<itunes:author>かず</itunes:author>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/42.%E5%83%95%E3%81%8C%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="18922752" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/42.%E5%83%95%E3%81%8C%E6%9C%80%E8%BF%91%E5%A4%A7%E4%BA%8B%E3%81%AB%E3%81%97%E3%81%A6%E3%81%84%E3%82%8B%E3%82%82%E3%81%AE_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Tue, 16 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>788</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/7MgvRxrz5PkKfoN7vsWqADF2u0w9fC7RRNrbDsKB.jpg" />
+</item>
 </channel>
 </rss>
