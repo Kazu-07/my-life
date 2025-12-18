@@ -534,5 +534,15 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/cGqc93mYdxJmGOeeheCyKVgCdE2Sr1Gyb8TPPPVA.jpg" />
 </item>
+<item>
+<title>44.積み減らすマインド</title>
+<itunes:author>かず</itunes:author>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/44.%E7%A9%8D%E3%81%BF%E6%B8%9B%E3%82%89%E3%81%99%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="19166976" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/44.%E7%A9%8D%E3%81%BF%E6%B8%9B%E3%82%89%E3%81%99%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Thu, 18 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>798</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/1MrNwVllIZiMk9b3sBeCNgkYu2aNWMnWodtiPPXQ.jpg" />
+</item>
 </channel>
 </rss>
