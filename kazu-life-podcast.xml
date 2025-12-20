@@ -554,5 +554,15 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KLNPIDUt3PCs8ncG2QoEy6pBZY0Kq4d1PQnnsNKU.jpg" />
 </item>
+<item>
+<title>46.儲かる話の見つけ方</title>
+<itunes:author>かず</itunes:author>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/46.%E5%84%B2%E3%81%8B%E3%82%8B%E8%A9%B1%E3%81%AE%E8%A6%8B%E3%81%A4%E3%81%91%E6%96%B9_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="14760576" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/46.%E5%84%B2%E3%81%8B%E3%82%8B%E8%A9%B1%E3%81%AE%E8%A6%8B%E3%81%A4%E3%81%91%E6%96%B9_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Sat, 20 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>614</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/yKhscz1B5speLjT9XstXCs5djslwQD3yDAbgM9JA.jpg" />
+</item>
 </channel>
 </rss>
