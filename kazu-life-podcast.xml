@@ -564,5 +564,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/yKhscz1B5speLjT9XstXCs5djslwQD3yDAbgM9JA.jpg" />
 </item>
+<item>
+<title>47.お金持ちしかいない世界の実現</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/47.%E3%81%8A%E9%87%91%E6%8C%81%E3%81%A1%E3%81%97%E3%81%8B%E3%81%84%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E5%AE%9F%E7%8F%BE_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="18142848" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/47.%E3%81%8A%E9%87%91%E6%8C%81%E3%81%A1%E3%81%97%E3%81%8B%E3%81%84%E3%81%AA%E3%81%84%E4%B8%96%E7%95%8C%E3%81%AE%E5%AE%9F%E7%8F%BE_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Sun, 21 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>755</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/U7BPwIiTVWt1EpVmJgD0wJMwgmWtMxLvIJj5mWxS.jpg" />
+</item>
 </channel>
 </rss>
