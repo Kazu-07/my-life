@@ -588,5 +588,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/1FPgkI7KmNnC4wgxavhENOEpGDaf9WxYKWTUQwd1.jpg" />
 </item>
+<item>
+<title>49.昨日、3分で500万円を払いました</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/49.%E6%98%A8%E6%97%A5%E3%80%813%E5%88%86%E3%81%A7500%E4%B8%87%E5%86%86%E3%82%92%E6%89%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="16814592" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/49.%E6%98%A8%E6%97%A5%E3%80%813%E5%88%86%E3%81%A7500%E4%B8%87%E5%86%86%E3%82%92%E6%89%95%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Tue, 23 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>700</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/f9FcLBGOaj8q538xbLyDN4SF8mDYJhIzgxAco4cW.jpg" />
+</item>
 </channel>
 </rss>
