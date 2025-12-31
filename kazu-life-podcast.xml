@@ -684,5 +684,17 @@
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/aHC4nlepEULEIzSr9qsMN4Idx483VPZ2IniA13z3.jpg" />
 </item>
+<item>
+<title>57.500人集まる外部セミナーをしてきた</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/57.500%E4%BA%BA%E9%9B%86%E3%81%BE%E3%82%8B%E5%A4%96%E9%83%A8%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17092800" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/57.500%E4%BA%BA%E9%9B%86%E3%81%BE%E3%82%8B%E5%A4%96%E9%83%A8%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E3%82%92%E3%81%97%E3%81%A6%E3%81%8D%E3%81%9F_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Wed, 31 Dec 2025 22:00:00 GMT</pubDate>
+<itunes:duration>712</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mFGWrcvxP4zizgTpbrEbZsf4VllV39YkpTRu2k6f.jpg" />
+</item>
 </channel>
 </rss>
