@@ -781,5 +781,17 @@ ONEの生徒さんは買ったらぜひ全体オプチャで教えてくださ�
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/2mbP0ZunuHafmRsyNC4lWHGo07Je5GKtt04Awo2F.jpg" />
 </item>
+<item>
+<title>62.ONEで起こった過去最悪の事件</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/62.ONE%E3%81%A7%E8%B5%B7%E3%81%93%E3%81%A3%E3%81%9F%E9%81%8E%E5%8E%BB%E6%9C%80%E6%82%AA%E3%81%AE%E4%BA%8B%E4%BB%B6_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="23396544" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/62.ONE%E3%81%A7%E8%B5%B7%E3%81%93%E3%81%A3%E3%81%9F%E9%81%8E%E5%8E%BB%E6%9C%80%E6%82%AA%E3%81%AE%E4%BA%8B%E4%BB%B6_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Mon, 05 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>974</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/1j6NbgZWKfYMfeL6rY45lZF63KZk3wCnM0JRAkDc.jpg" />
+</item>
 </channel>
 </rss>
