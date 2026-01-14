@@ -889,5 +889,17 @@ ONEの生徒さんは買ったらぜひ全体オプチャで教えてくださ�
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xeQENwAxLkxLWGZLv3Hjo1nr5eyWrxWaBObOgqSB.jpg" />
 </item>
+<item>
+<title>71.人生の密度</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/61.%E4%BA%BA%E7%94%9F%E3%81%AE%E5%AF%86%E5%BA%A6_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="17766144" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/61.%E4%BA%BA%E7%94%9F%E3%81%AE%E5%AF%86%E5%BA%A6_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Wed, 14 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>740</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/OZtKUZfmgqxlNPBoOP4Col1ajDPWDYyNC38SOF3V.jpg" />
+</item>
 </channel>
 </rss>
