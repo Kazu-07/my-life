@@ -901,17 +901,18 @@ ONEの生徒さんは買ったらぜひ全体オプチャで教えてくださ�
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/OZtKUZfmgqxlNPBoOP4Col1ajDPWDYyNC38SOF3V.jpg" />
 </item>
-<item>
-<title>72.【報告】ONEクレド完成しました！</title>
-<itunes:author>かず</itunes:author>
-<itunes:summary>▼ONEクレド▼&lt;br/&gt;https://utage-system.com/p/dVQDN62fbs5n</itunes:summary>
-<description>▼ONEクレド▼&lt;br/&gt;https://utage-system.com/p/dVQDN62fbs5n</description>
-<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/81.%E3%80%90%E5%A0%B1%E5%91%8A%E3%80%91ONE%E3%82%AF%E3%83%AC%E3%83%89%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="11528640" type="audio/mpeg" />
-<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/81.%E3%80%90%E5%A0%B1%E5%91%8A%E3%80%91ONE%E3%82%AF%E3%83%AC%E3%83%89%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
-<pubDate>Thu, 15 Jan 2026 22:00:00 GMT</pubDate>
-<itunes:duration>0</itunes:duration>
-<itunes:explicit>no</itunes:explicit>
-<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/uhLi3k1vumrjoXzIGXwIRZVFYr3h5HkYzW1wuzZe.jpg" />
-</item>
+    <item>
+      <title>72.【報告】ONEクレド完成しました！</title>
+      <itunes:author>かず</itunes:author>
+      <itunes:summary>▼ONEクレド▼
+https://utage-system.com/p/dVQDN62fbs5n</itunes:summary>
+      <description>▼ONEクレド▼&lt;br/&gt;https://utage-system.com/p/dVQDN62fbs5n</description>
+      <enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/81.%E3%80%90%E5%A0%B1%E5%91%8A%E3%80%91ONE%E3%82%AF%E3%83%AC%E3%83%89%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="11528640" type="audio/mpeg" />
+      <guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/81.%E3%80%90%E5%A0%B1%E5%91%8A%E3%80%91ONE%E3%82%AF%E3%83%AC%E3%83%89%E5%AE%8C%E6%88%90%E3%81%97%E3%81%BE%E3%81%97%E3%81%9F%EF%BC%81_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+      <pubDate>Thu, 15 Jan 2026 22:00:00 GMT</pubDate>
+      <itunes:duration>0</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/uhLi3k1vumrjoXzIGXwIRZVFYr3h5HkYzW1wuzZe.jpg" />
+    </item>
 </channel>
 </rss>
