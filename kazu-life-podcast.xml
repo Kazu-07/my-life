@@ -999,5 +999,17 @@ https://utage-system.com/p/zQEslEvQes5P</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/AsIjS4J6LR8NMoIgl1bDiMD3j7u1LmNTihRdFXy7.jpg" />
 </item>
+<item>
+<title>80.朝8時起き頑張ってます</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/77.%E6%9C%9D8%E6%99%82%E8%B5%B7%E3%81%8D%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3" length="12433536" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/77.%E6%9C%9D8%E6%99%82%E8%B5%B7%E3%81%8D%E9%A0%91%E5%BC%B5%E3%81%A3%E3%81%A6%E3%81%BE%E3%81%99_%E3%83%9D%E3%83%83%E3%83%97%E3%83%8E%E3%82%A4%E3%82%BA%E9%99%A4%E5%8E%BB%E7%89%88.mp3</guid>
+<pubDate>Fri, 23 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>0</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Ie2ZFosaRBGFWHxDlD9sFRBzY6DN2IObE6sM2uCV.jpg" />
+</item>
 </channel>
 </rss>
