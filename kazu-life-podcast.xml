@@ -1035,5 +1035,17 @@ https://utage-system.com/p/zQEslEvQes5P</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TOaYHJKOAcxbeSh2BW96RZNRJI8kEY15DXcaSMrK.jpg" />
 </item>
+<item>
+<title>83.イフゼンルール</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/82.%E3%82%A4%E3%83%95%E3%82%BC%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%AB(BGM).mp3" length="94139976" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/82.%E3%82%A4%E3%83%95%E3%82%BC%E3%83%B3%E3%83%AB%E3%83%BC%E3%83%AB(BGM).mp3</guid>
+<pubDate>Mon, 26 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>0</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ZISTABA6GxYd4gsVn1lqJcxF558LVAn5h4B2T6aj.jpg" />
+</item>
 </channel>
 </rss>
