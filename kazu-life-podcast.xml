@@ -1047,5 +1047,17 @@ https://utage-system.com/p/zQEslEvQes5P</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ZISTABA6GxYd4gsVn1lqJcxF558LVAn5h4B2T6aj.jpg" />
 </item>
+<item>
+<title>84.この音声コラムのネタ出しについて</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/83.%E3%81%93%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%82%B3%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%8D%E3%82%BF%E5%87%BA%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6(BGM).mp3" length="112649666" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/83.%E3%81%93%E3%81%AE%E9%9F%B3%E5%A3%B0%E3%82%B3%E3%83%A9%E3%83%A0%E3%81%AE%E3%83%8D%E3%82%BF%E5%87%BA%E3%81%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6(BGM).mp3</guid>
+<pubDate>Tue, 27 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>0</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rlvTd61cRNhow2qed5yXWcSOC5n2qnu7Z9wtyv8K.jpg" />
+</item>
 </channel>
 </rss>
