@@ -1095,5 +1095,17 @@ https://utage-system.com/p/zQEslEvQes5P</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/cCGa8QPkhqA50rOUEFVDLlQwpY72gSrRN54XplUR.jpg" />
 </item>
+<item>
+<title>88.僕が先輩の広告をパクった話</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/88.%E5%83%95%E3%81%8C%E5%85%88%E8%BC%A9%E3%81%AE%E5%BA%83%E5%91%8A%E3%82%92%E3%83%91%E3%82%AF%E3%81%A3%E3%81%9F%E8%A9%B1.mp3" length="15541742" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/88.%E5%83%95%E3%81%8C%E5%85%88%E8%BC%A9%E3%81%AE%E5%BA%83%E5%91%8A%E3%82%92%E3%83%91%E3%82%AF%E3%81%A3%E3%81%9F%E8%A9%B1.mp3</guid>
+<pubDate>Sat, 31 Jan 2026 22:00:00 GMT</pubDate>
+<itunes:duration>647</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ShsCly6vtdDsFBToxz5BBnLbc1JNSa6vFiSGtQdX.jpg" />
+</item>
 </channel>
 </rss>
