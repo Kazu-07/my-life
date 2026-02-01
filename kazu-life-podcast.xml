@@ -1107,5 +1107,16 @@ https://utage-system.com/p/zQEslEvQes5P</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ShsCly6vtdDsFBToxz5BBnLbc1JNSa6vFiSGtQdX.jpg" />
 </item>
+<item>
+<title>89.失敗の原因なんて探しても無駄</title>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/89.%E5%A4%B1%E6%95%97%E3%81%AE%E5%8E%9F%E5%9B%A0%E3%81%AA%E3%82%93%E3%81%A6%E6%8E%A2%E3%81%97%E3%81%A6%E3%82%82%E7%84%A1%E9%A7%84.mp3" length="16747969" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/89.%E5%A4%B1%E6%95%97%E3%81%AE%E5%8E%9F%E5%9B%A0%E3%81%AA%E3%82%93%E3%81%A6%E6%8E%A2%E3%81%97%E3%81%A6%E3%82%82%E7%84%A1%E9%A7%84.mp3</guid>
+<pubDate>Sun, 01 Feb 2026 22:00:00 GMT</pubDate>
+<itunes:duration>697</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/5in1AapRUEUUAgZ0rLKr8NLGGAdjGrvoPhw8v7Zm.jpg" />
+</item>
 </channel>
 </rss>
