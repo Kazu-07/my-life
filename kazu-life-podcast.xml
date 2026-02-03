@@ -1131,5 +1131,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/OvQEBynZKamwzy2gbr5jaOTVT2O7h3pGIyFLQLMd.jpg" />
 </item>
+<item>
+<title>91.AIバブルについて</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/90.AI%E3%83%90%E3%83%96%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.mp3" length="17158601" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/90.AI%E3%83%90%E3%83%96%E3%83%AB%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.mp3</guid>
+<pubDate>Tue, 03 Feb 2026 22:00:00 GMT</pubDate>
+<itunes:duration>714</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/dpORdY8LTf75CfFefc7YRDe1iW9BQCTXThFDESRK.jpg" />
+</item>
 </channel>
 </rss>
