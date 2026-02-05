@@ -1155,5 +1155,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/HcUD4uHEpwkllvDOwILmO7hS8AnSTExNigDVS4aE.jpg" />
 </item>
+<item>
+<title>93.最近のONEを見ていて思うこと</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/92.%E6%9C%80%E8%BF%91%E3%81%AEONE%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%93%E3%81%A8.mp3" length="14194084" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/92.%E6%9C%80%E8%BF%91%E3%81%AEONE%E3%82%92%E8%A6%8B%E3%81%A6%E3%81%84%E3%81%A6%E6%80%9D%E3%81%86%E3%81%93%E3%81%A8.mp3</guid>
+<pubDate>Thu, 05 Feb 2026 22:00:00 GMT</pubDate>
+<itunes:duration>590</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/cQvTY6zLxqfoThutBMsAjhqhgLlDE278jZtEQ4Om.jpg" />
+</item>
 </channel>
 </rss>
