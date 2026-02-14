@@ -1263,5 +1263,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/potVvphjqBjka4hLDygZgaYlJx6oFmi3bPPC7SQc.jpg" />
 </item>
+<item>
+<title>102.熱狂</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/101.%E7%86%B1%E7%8B%82.mp3" length="14642124" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/101.%E7%86%B1%E7%8B%82.mp3</guid>
+<pubDate>Fri, 13 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>915</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6w4EBGi7wSP0BF2DEsHnL1kVzJkf3EFIHMf8Bxqc.jpg" />
+</item>
 </channel>
 </rss>
