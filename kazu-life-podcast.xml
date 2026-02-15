@@ -1275,5 +1275,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/6w4EBGi7wSP0BF2DEsHnL1kVzJkf3EFIHMf8Bxqc.jpg" />
 </item>
+<item>
+<title>103.ぶっちゃけコンテンツなんて見なくていい</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/102.%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AA%E3%82%93%E3%81%A6%E8%A6%8B%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84.mp3" length="18956530" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/102.%E3%81%B6%E3%81%A3%E3%81%A1%E3%82%83%E3%81%91%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%AA%E3%82%93%E3%81%A6%E8%A6%8B%E3%81%AA%E3%81%8F%E3%81%A6%E3%81%84%E3%81%84.mp3</guid>
+<pubDate>Sat, 14 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>1185</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/vZm4HfGcXO0o3mXu9aFi5IvjQnRyNmz0CTrnJnmn.png" />
+</item>
 </channel>
 </rss>
