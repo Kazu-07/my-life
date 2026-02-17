@@ -42,9 +42,8 @@ jobs:
           ACCOUNT_ID: "9827031"
         run: |
           BODY="[To:${ACCOUNT_ID}]仲村静香さん
-          コードを更新しました
+          【 報告 】RSSブランチに以下のエピソードを追加しました！
 
-          追加エピソード:
           ${{ steps.episodes.outputs.list }}"
           # Remove leading spaces from heredoc-style indentation
           BODY=$(echo "$BODY" | sed 's/^          //')
