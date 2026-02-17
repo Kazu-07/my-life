@@ -1299,5 +1299,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KKDc4XuhLCQTsTIRodCi5I87dBQm8cQiPdczE1Ha.jpg" />
 </item>
+<item>
+<title>105.日本人として生まれる奇跡</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/104.%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%A8%E3%81%97%E3%81%A6%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%A5%87%E8%B7%A1.mp3" length="12699511" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/104.%E6%97%A5%E6%9C%AC%E4%BA%BA%E3%81%A8%E3%81%97%E3%81%A6%E7%94%9F%E3%81%BE%E3%82%8C%E3%82%8B%E5%A5%87%E8%B7%A1.mp3</guid>
+<pubDate>Mon, 16 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>635</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/gLfBP6oQ1RaaQtqJoSK3Rtpi5iEJJyIG29xrT3IO.jpg" />
+</item>
 </channel>
 </rss>
