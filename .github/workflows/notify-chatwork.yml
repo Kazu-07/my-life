@@ -1,0 +1,53 @@
+name: Notify Chatwork on RSS Update
+
+on:
+  push:
+    branches:
+      - rss-source
+    paths:
+      - 'kazu-life-podcast.xml'
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Extract new episode titles
+        id: episodes
+        run: |
+          TITLES=$(git diff HEAD~1 HEAD -- kazu-life-podcast.xml \
+            | grep "^+.*<title>" \
+            | grep -v "<title>かず" \
+            | sed 's/.*<title>\(.*\)<\/title>/\1/' \
+            | sed 's/^/・/')
+          if [ -z "$TITLES" ]; then
+            echo "found=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "found=true" >> "$GITHUB_OUTPUT"
+            {
+              echo "list<<EOF"
+              echo "$TITLES"
+              echo "EOF"
+            } >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Send Chatwork message
+        if: steps.episodes.outputs.found == 'true'
+        env:
+          CHATWORK_TOKEN: ${{ secrets.CHATWORK_API_TOKEN }}
+          ROOM_ID: "414390286"
+          ACCOUNT_ID: "9827031"
+        run: |
+          BODY="[To:${ACCOUNT_ID}]仲村静香さん
+          コードを更新しました
+
+          追加エピソード:
+          ${{ steps.episodes.outputs.list }}"
+          # Remove leading spaces from heredoc-style indentation
+          BODY=$(echo "$BODY" | sed 's/^          //')
+          curl -s -X POST "https://api.chatwork.com/v2/rooms/${ROOM_ID}/messages" \
+            -H "X-ChatWorkToken: ${CHATWORK_TOKEN}" \
+            --data-urlencode "body=${BODY}"
