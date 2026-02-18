@@ -1311,5 +1311,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/gLfBP6oQ1RaaQtqJoSK3Rtpi5iEJJyIG29xrT3IO.jpg" />
 </item>
+<item>
+<title>106.人生を変える基準値</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/105.%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E5%9F%BA%E6%BA%96%E5%80%A4.mp3" length="14496068" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/105.%E4%BA%BA%E7%94%9F%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E5%9F%BA%E6%BA%96%E5%80%A4.mp3</guid>
+<pubDate>Tue, 17 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>725</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ODZaR27JEREzMi2PudVkGLVGa2ignf7Dit7eziZR.jpg" />
+</item>
 </channel>
 </rss>
