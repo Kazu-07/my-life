@@ -1371,5 +1371,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/uSwzN2OW92TEba3AVJPMaBzN6ehG4MrpHkctXFTh.jpg" />
 </item>
+<item>
+<title>111.好きなことでは稼げない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/110.%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E7%A8%BC%E3%81%92%E3%81%AA%E3%81%84.mp3" length="14095464" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/110.%E5%A5%BD%E3%81%8D%E3%81%AA%E3%81%93%E3%81%A8%E3%81%A7%E3%81%AF%E7%A8%BC%E3%81%92%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Sun, 22 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>586</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/vUsWJgCVnoAx0uq46W2gu6d4qF4SXh8PyejXOV4z.jpg" />
+</item>
 </channel>
 </rss>
