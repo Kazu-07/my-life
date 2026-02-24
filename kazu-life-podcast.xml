@@ -1383,5 +1383,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/vUsWJgCVnoAx0uq46W2gu6d4qF4SXh8PyejXOV4z.jpg" />
 </item>
+<item>
+<title>112.みんなに見て欲しい動画があります</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>https://utage-system.com/page/bOeFDg9wrLq0</itunes:summary>
+<description>https://utage-system.com/page/bOeFDg9wrLq0</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/111.%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AB%E8%A6%8B%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E5%8B%95%E7%94%BB%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99.mp3" length="1590023" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/111.%E3%81%BF%E3%82%93%E3%81%AA%E3%81%AB%E8%A6%8B%E3%81%A6%E6%AC%B2%E3%81%97%E3%81%84%E5%8B%95%E7%94%BB%E3%81%8C%E3%81%82%E3%82%8A%E3%81%BE%E3%81%99.mp3</guid>
+<pubDate>Mon, 23 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>65</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pMbQwFJygk2OFVsszatERKSTDGFtFSOgFBSjnpa1.jpg" />
+</item>
 </channel>
 </rss>
