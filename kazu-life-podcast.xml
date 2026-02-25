@@ -1395,5 +1395,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pMbQwFJygk2OFVsszatERKSTDGFtFSOgFBSjnpa1.jpg" />
 </item>
+<item>
+<title>113.マインドの仕組み化</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/112.%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96.mp3" length="13746250" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/112.%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E5%8C%96.mp3</guid>
+<pubDate>Tue, 24 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>572</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xvyszBrbB64xhGDNWPx8dFm3rBeT2qHPxU3lz5KL.jpg" />
+</item>
 </channel>
 </rss>
