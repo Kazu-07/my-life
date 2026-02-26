@@ -1407,5 +1407,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xvyszBrbB64xhGDNWPx8dFm3rBeT2qHPxU3lz5KL.jpg" />
 </item>
+<item>
+<title>114.FXだけは絶対にやらない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/113.FX%E3%81%A0%E3%81%91%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%82%84%E3%82%89%E3%81%AA%E3%81%84.mp3" length="17546851" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/113.FX%E3%81%A0%E3%81%91%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%82%84%E3%82%89%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Wed, 25 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>730</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/CE92wglg7dOxQFraUxKo6wrUamoWlp5wFH270FmT.jpg" />
+</item>
 </channel>
 </rss>
