@@ -1419,5 +1419,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/CE92wglg7dOxQFraUxKo6wrUamoWlp5wFH270FmT.jpg" />
 </item>
+<item>
+<title>115.マーケットイン</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/116.%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%82%A4%E3%83%B3.mp3" length="17532246" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/116.%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%83%E3%83%88%E3%82%A4%E3%83%B3.mp3</guid>
+<pubDate>Thu, 26 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>730</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TafA6RQ8QUDqOSAI0nBCdS6RDRwYRLfhkHJ5G1GM.jpg" />
+</item>
 </channel>
 </rss>
