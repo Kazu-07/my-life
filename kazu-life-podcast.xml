@@ -1431,5 +1431,17 @@ https://utage-system.com/p/JwvIkvNmY09E?ftid=b7oXG4nOC1rr</itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/TafA6RQ8QUDqOSAI0nBCdS6RDRwYRLfhkHJ5G1GM.jpg" />
 </item>
+<item>
+<title>116.久々に風邪をひいた</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/117.%E4%B9%85%E3%80%85%E3%81%AB%E9%A2%A8%E9%82%AA%E3%82%92%E3%81%B2%E3%81%84%E3%81%9F.mp3" length="15301647" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/117.%E4%B9%85%E3%80%85%E3%81%AB%E9%A2%A8%E9%82%AA%E3%82%92%E3%81%B2%E3%81%84%E3%81%9F.mp3</guid>
+<pubDate>Fri, 27 Feb 2026 10:00:00 GMT</pubDate>
+<itunes:duration>637</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/WyN6eOwWp5MxtDFm79hWhYm5ZtEwVSOUY1Pwxw2H.jpg" />
+</item>
 </channel>
 </rss>
