@@ -1505,5 +1505,17 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/wKE6fuOaPg1b5AkuaFW71CBGJQcUpLwERQTmy9Gz.jpg" />
 </item>
+<item>
+<title>122.『ウルトラC』</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/121.%E3%80%8E%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9C%E3%80%8F.mp3" length="13997015" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/121.%E3%80%8E%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9C%E3%80%8F.mp3</guid>
+<pubDate>Thu, 05 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>583</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/OV0Ljt0t0WNRcyKuPqvTdbarCeHZ6BCa1tMQAeAb.jpg" />
+</item>
 </channel>
 </rss>
