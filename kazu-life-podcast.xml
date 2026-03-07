@@ -1517,5 +1517,17 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/OV0Ljt0t0WNRcyKuPqvTdbarCeHZ6BCa1tMQAeAb.jpg" />
 </item>
+<item>
+<title>123.おめでとうと素直に言えない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/122.%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%A8%E7%B4%A0%E7%9B%B4%E3%81%AB%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84.mp3" length="17591280" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/122.%E3%81%8A%E3%82%81%E3%81%A7%E3%81%A8%E3%81%86%E3%81%A8%E7%B4%A0%E7%9B%B4%E3%81%AB%E8%A8%80%E3%81%88%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Fri, 06 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>733</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/MEILsicJh4XrQhnMa8KFzIFXcWiV5ilYr8SDzGMe.jpg" />
+</item>
 </channel>
 </rss>
