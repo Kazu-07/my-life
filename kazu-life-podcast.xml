@@ -1529,5 +1529,17 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/MEILsicJh4XrQhnMa8KFzIFXcWiV5ilYr8SDzGMe.jpg" />
 </item>
+<item>
+<title>124.焼肉がめっちゃ美味かった</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/123.%E7%84%BC%E8%82%89%E3%81%8C%E3%82%81%E3%81%A1%E3%82%83%E3%81%8F%E3%81%A1%E3%82%83%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F.mp3" length="18701980" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/123.%E7%84%BC%E8%82%89%E3%81%8C%E3%82%81%E3%81%A1%E3%82%83%E3%81%8F%E3%81%A1%E3%82%83%E7%BE%8E%E5%91%B3%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F.mp3</guid>
+<pubDate>Sat, 07 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>779</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/dTvSbYhx0hRhUXW4rUT0BAP6bUxqTE0RqNjlQphU.jpg" />
+</item>
 </channel>
 </rss>
