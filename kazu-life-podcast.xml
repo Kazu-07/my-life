@@ -1553,5 +1553,17 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xXqtd3iXbGPQOK4HfR6qPoGqp1HcPC2wCXtWSwn6.jpg" />
 </item>
+<item>
+<title>126.AI時代の落とし穴</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/126.AI%E6%99%82%E4%BB%A3%E3%81%AE%E8%90%BD%E3%81%A8%E3%81%97%E7%A9%B4_.mp3" length="17394402" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/126.AI%E6%99%82%E4%BB%A3%E3%81%AE%E8%90%BD%E3%81%A8%E3%81%97%E7%A9%B4_.mp3</guid>
+<pubDate>Sun, 08 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>724</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pqG90DOiFqVdC60noU8TITVs3tY8efhxLwbDTB33.jpg" />
+</item>
 </channel>
 </rss>
