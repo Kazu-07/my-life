@@ -1566,5 +1566,16 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pqG90DOiFqVdC60noU8TITVs3tY8efhxLwbDTB33.jpg" />
 </item>
 <item>
+<title>127.誰にも言えなかった僕の本音</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/127.%E8%AA%B0%E3%81%AB%E3%82%82%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%83%95%E3%81%AE%E6%9C%AC%E9%9F%B3.mp3" length="9142885" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/127.%E8%AA%B0%E3%81%AB%E3%82%82%E8%A8%80%E3%81%88%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E5%83%95%E3%81%AE%E6%9C%AC%E9%9F%B3.mp3</guid>
+<pubDate>Mon, 09 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>714</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/WG4mBNqzGMIWHUy9NsC7RdR53bz895joNh4PTSrc.jpg" />
+</item>
 </channel>
 </rss>
