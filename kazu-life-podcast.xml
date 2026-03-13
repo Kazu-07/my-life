@@ -1589,5 +1589,17 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/4fOi1qdLYl1Wkpz5KDNK0ancNQdUwyw9GbVJMApP.jpg" />
 </item>
+<item>
+<title>129.昔見た動画</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/129.%E6%98%94%E8%A6%8B%E3%81%9F%E5%8B%95%E7%94%BB.mp3" length="17025754" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/129.%E6%98%94%E8%A6%8B%E3%81%9F%E5%8B%95%E7%94%BB.mp3</guid>
+<pubDate>Tue, 10 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>708</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/F2aRyvZKXpi44Ha5x5cYIBHxbgCAjuWnAmSzUTe4.jpg" />
+</item>
 </channel>
 </rss>
