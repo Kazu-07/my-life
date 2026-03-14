@@ -4,9 +4,9 @@
     <title>年商10億の日常</title>
     <link>https://kazu-07.github.io/my-life/</link>
     <language>ja-jp</language>
-    <itunes:author>かず</itunes:author>
-    <itunes:summary>年商10億の日常</itunes:summary>
+    <itunes:author>かず</itunes:author>  
     <description>年商10億の日常</description>
+    <itunes:summary>年商10億の日常</itunes:summary>
     <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/N32svE4S4Q7Tf8Hi9s79b8bYvxSpId85tQZwWL9y.jpg" />
     <itunes:category text="教育">
       <itunes:category text="コース"/>
@@ -1600,6 +1600,18 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:duration>708</itunes:duration>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/F2aRyvZKXpi44Ha5x5cYIBHxbgCAjuWnAmSzUTe4.jpg" />
+</item>
+<item>
+<title>130.格上の言うことは絶対</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/130.%E6%A0%BC%E4%B8%8A%E3%81%AE%E8%A8%80%E3%81%86%E3%81%93%E3%81%A8%E3%81%AF%E7%B5%B6%E5%AF%BE.mp3" length="13704248" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/130.%E6%A0%BC%E4%B8%8A%E3%81%AE%E8%A8%80%E3%81%86%E3%81%93%E3%81%A8%E3%81%AF%E7%B5%B6%E5%AF%BE.mp3</guid>
+<pubDate>Tue, 10 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>570</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/NRuusuzoVX3FB7gL2Y4wF9KnvtVu8FDJCflMZFyF.jpg" />
 </item>
 </channel>
 </rss>
