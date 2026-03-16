@@ -1625,5 +1625,19 @@ https://utage-system.com/p/qTdpyeqyyY04</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/QSotg5aXUzgtqaDvv0i2djvnNGQDKjJF6UB7zU5x.jpg" />
 </item>
+<item>
+<title>132.はるなさんの初コンテンツです</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>《はるな式AI業務効率化》
+https://utage-system.com/p/LYU2dtjhCI0i</itunes:summary>
+<description>《はるな式AI業務効率化》
+https://utage-system.com/p/LYU2dtjhCI0i</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/132.%E3%81%AF%E3%82%8B%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E5%88%9D%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%A7%E3%81%99.mp3" length="9754160" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/132.%E3%81%AF%E3%82%8B%E3%81%AA%E3%81%95%E3%82%93%E3%81%AE%E5%88%9D%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%81%A7%E3%81%99.mp3</guid>
+<pubDate>Wed, 11 Mar 2026 16:00:00 GMT</pubDate>
+<itunes:duration>405</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/rq7Wh8OPad2fmoVPh7vEwGFDykG6iSaFW1TPChVT.jpg" />
+</item>
 </channel>
 </rss>
