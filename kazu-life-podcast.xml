@@ -1675,5 +1675,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ULtdrw8KW9v9M5JkRBoKgbTjyc5CcRSiOrLvXcBg.jpg" />
 </item>
+<item>
+<title>136.花粉症は治せます</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/136.%E8%8A%B1%E7%B2%89%E7%97%87%E3%81%AF%E6%B2%BB%E3%81%9B%E3%81%BE%E3%81%99.mp3" length="15790700" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/136.%E8%8A%B1%E7%B2%89%E7%97%87%E3%81%AF%E6%B2%BB%E3%81%9B%E3%81%BE%E3%81%99.mp3</guid>
+<pubDate>Sun, 15 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>657</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8wO24CUu2XH2cOFxTN5CApgpiuvmCS9dNXmvdmA8.jpg" />
+</item>
 </channel>
 </rss>
