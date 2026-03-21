@@ -1687,5 +1687,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/8wO24CUu2XH2cOFxTN5CApgpiuvmCS9dNXmvdmA8.jpg" />
 </item>
+<item>
+<title>137.自分に自信が持てない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/137.%E8%87%AA%E5%88%86%E3%81%AB%E8%87%AA%E4%BF%A1%E3%81%8C%E6%8C%81%E3%81%A6%E3%81%AA%E3%81%84.mp3" length="16592562" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/137.%E8%87%AA%E5%88%86%E3%81%AB%E8%87%AA%E4%BF%A1%E3%81%8C%E6%8C%81%E3%81%A6%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Sun, 15 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>691</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mUv5lSCuSMov64lsVVHWOqWxZuUBk0cfpdSbkRdH.jpg" />
+</item>
 </channel>
 </rss>
