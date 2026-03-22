@@ -1699,5 +1699,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/mUv5lSCuSMov64lsVVHWOqWxZuUBk0cfpdSbkRdH.jpg" />
 </item>
+<item>
+<title>138.プライドほど高くつくものはない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/138.%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%81%BB%E3%81%A9%E9%AB%98%E3%81%8F%E3%81%A4%E3%81%8F%E3%82%82%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%84.mp3" length="15156267" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/138.%E3%83%97%E3%83%A9%E3%82%A4%E3%83%89%E3%81%BB%E3%81%A9%E9%AB%98%E3%81%8F%E3%81%A4%E3%81%8F%E3%82%82%E3%81%AE%E3%81%AF%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Mon, 16 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>631</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/gvcnUWGE1k3ZVo6Ls0cvZ8Yj9siF8rwXmhVDYCFS.jpg" />
+</item>
 </channel>
 </rss>
