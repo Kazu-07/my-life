@@ -1711,5 +1711,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/gvcnUWGE1k3ZVo6Ls0cvZ8Yj9siF8rwXmhVDYCFS.jpg" />
 </item>
+<item>
+<title>139.アツい気持ちさえあれば十分</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/139.%E3%82%A2%E3%83%84%E3%81%84%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%95%E3%81%88%E3%81%82%E3%82%8C%E3%81%B0%E5%8D%81%E5%88%86.mp3" length="14642165" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/139.%E3%82%A2%E3%83%84%E3%81%84%E6%B0%97%E6%8C%81%E3%81%A1%E3%81%95%E3%81%88%E3%81%82%E3%82%8C%E3%81%B0%E5%8D%81%E5%88%86.mp3</guid>
+<pubDate>Sun, 22 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>609</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/IkZ2jkdk20iYUPvzY1ds6Yxypf2giQWeMgLpdU7r.jpg" />
+</item>
 </channel>
 </rss>
