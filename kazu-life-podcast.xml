@@ -1723,5 +1723,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/IkZ2jkdk20iYUPvzY1ds6Yxypf2giQWeMgLpdU7r.jpg" />
 </item>
+<item>
+<title>140.ほんと寝た方がいい</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/140.%E3%81%BB%E3%82%93%E3%81%A8%E5%AF%9D%E3%81%9F%E6%96%B9%E3%81%8C%E3%81%84%E3%81%84.mp3" length="15453412" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/140.%E3%81%BB%E3%82%93%E3%81%A8%E5%AF%9D%E3%81%9F%E6%96%B9%E3%81%8C%E3%81%84%E3%81%84.mp3</guid>
+<pubDate>Sun, 22 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>643</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/WocfZK1BGC4ojG59eKab1nYsr8ogK27vLigu9wkY.jpg" />
+</item>
 </channel>
 </rss>
