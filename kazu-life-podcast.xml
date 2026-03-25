@@ -1735,5 +1735,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/WocfZK1BGC4ojG59eKab1nYsr8ogK27vLigu9wkY.jpg" />
 </item>
+<item>
+<title>141.人生は上書きするしかない</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/141.%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%8A%E6%9B%B8%E3%81%8D%E3%81%99%E3%82%8B%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84.mp3" length="14986348" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/141.%E4%BA%BA%E7%94%9F%E3%81%AF%E4%B8%8A%E6%9B%B8%E3%81%8D%E3%81%99%E3%82%8B%E3%81%97%E3%81%8B%E3%81%AA%E3%81%84.mp3</guid>
+<pubDate>Mon, 23 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>623</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Ifo4V4xmsxJ969nv1KbfmzXcRyQr85TEPtaYf7S4.jpg" />
+</item>
 </channel>
 </rss>
