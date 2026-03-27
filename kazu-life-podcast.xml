@@ -1759,5 +1759,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/xQphFJfAJ5QVJxX96tGmmSeWlz43QoNf84ESKaDr.jpg" />
 </item>
+<item>
+<title>143.最近すごい嬉しかったこと</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/143.%E6%9C%80%E8%BF%91%E3%81%99%E3%81%94%E3%81%84%E5%AC%89%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8.mp3" length="15369411" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/143.%E6%9C%80%E8%BF%91%E3%81%99%E3%81%94%E3%81%84%E5%AC%89%E3%81%97%E3%81%8B%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8.mp3</guid>
+<pubDate>Tue, 24 Mar 2026 10:00:00 GMT</pubDate>
+<itunes:duration>639</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ZEApQwsDSoFdJTYmhux8ki3xjiAvoWmfCs7P9PhL.jpg" />
+</item>
 </channel>
 </rss>
