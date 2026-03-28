@@ -1771,5 +1771,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ZEApQwsDSoFdJTYmhux8ki3xjiAvoWmfCs7P9PhL.jpg" />
 </item>
+<item>
+<title>144.実はいまピンチです</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary>https://mond.how/ja/kazu_one</itunes:summary>
+<description>https://mond.how/ja/kazu_one</description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/144.%E5%AE%9F%E3%81%AF%E3%81%84%E3%81%BE%E3%83%94%E3%83%B3%E3%83%81%E3%81%A7%E3%81%99.mp3" length="7703047" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/144.%E5%AE%9F%E3%81%AF%E3%81%84%E3%81%BE%E3%83%94%E3%83%B3%E3%83%81%E3%81%A7%E3%81%99.mp3</guid>
+<pubDate>Tue, 24 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>320</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/je7a0DsOYLowUbR325vMwlGGnhuOqzB9ldfzDuHz.jpg" />
+</item>
 </channel>
 </rss>
