@@ -1879,5 +1879,17 @@ https://utage-system.com/p/LYU2dtjhCI0i</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/BVmlWG6QBjj0SeQvjterOduSQYq63W4Ef1M0M9En.jpg" />
 </item>
+<item>
+<title>153.心臓が痛い</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/153.%E5%BF%83%E8%87%93%E3%81%8C%E7%97%9B%E3%81%84.mp3" length="11540288" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/153.%E5%BF%83%E8%87%93%E3%81%8C%E7%97%9B%E3%81%84.mp3</guid>
+<pubDate>Sat, 28 Mar 2026 22:00:00 GMT</pubDate>
+<itunes:duration>480</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ANPhcf0wE40yfkGPCzLUoke5OE649poriQk9ZP9p.jpg" />
+</item>
 </channel>
 </rss>
