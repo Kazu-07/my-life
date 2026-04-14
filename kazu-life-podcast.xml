@@ -1977,5 +1977,17 @@ https://kazu-new-starting-line.surge.sh/</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/DBFwnnIqzqBAozN3jqWkseqjZSQ6pZ58zOdUDHtN.jpg" />
 </item>
+<item>
+<title>161.宮迫さんと話してみて</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/161.%E5%AE%AE%E8%BF%AB%E3%81%95%E3%82%93%E3%81%A8%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6.mp3" length="12689478" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/161.%E5%AE%AE%E8%BF%AB%E3%81%95%E3%82%93%E3%81%A8%E8%A9%B1%E3%81%97%E3%81%A6%E3%81%BF%E3%81%A6.mp3</guid>
+<pubDate>Wed, 01 Apr 2026 22:00:00 GMT</pubDate>
+<itunes:duration>528</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/DSHkpG1gF4Khh2plzJVrcapXy4JNzOQQFObUn81S.jpg" />
+</item>
 </channel>
 </rss>
