@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>年商10億の日常</title>
 <link>https://kazu-07.github.io/my-life/</link>
@@ -12,9 +12,6 @@
 <itunes:category text="コース" />
 </itunes:category>
 <itunes:explicit>no</itunes:explicit>
-<lastBuildDate>Thu, 17 Apr 2026 05:30:00 GMT</lastBuildDate>
-<atom:link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
-<atom:link href="https://kazu-07.github.io/my-life/kazu-life-podcast.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>00.まず初めに</title>
 <itunes:author>かず</itunes:author>
