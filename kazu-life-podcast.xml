@@ -2025,5 +2025,17 @@ https://kazu-new-starting-line.surge.sh/</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/bNnHbscea3SfLT316jkgpWe6c10NwcUDrWix9KAu.jpg" />
 </item>
+<item>
+<title>165.月利10万円</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/165.%E6%9C%88%E5%88%A910%E4%B8%87%E5%86%86.mp3" length="13795141" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/165.%E6%9C%88%E5%88%A910%E4%B8%87%E5%86%86.mp3</guid>
+<pubDate>Sat, 18 Apr 2026 22:00:00 GMT</pubDate>
+<itunes:duration>574</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/jeDtP9KTnOx0HwasX6YyR2IblNnpHVfRg4lGnHOH.jpg" />
+</item>
 </channel>
 </rss>
