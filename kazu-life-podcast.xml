@@ -2061,5 +2061,17 @@ https://kazu-new-starting-line.surge.sh/</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/KamqxQVT7FG1gfgyHtjL31NlasD6sSmNHS9QblJM.jpg" />
 </item>
+<item>
+<title>168.テイカーが損をする構造</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/168.%E3%83%86%E3%82%A4%E3%82%AB%E3%83%BC%E3%81%8C%E6%90%8D%E3%82%92%E3%81%99%E3%82%8B%E6%A7%8B%E9%80%A0.mp3" length="17095997" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/168.%E3%83%86%E3%82%A4%E3%82%AB%E3%83%BC%E3%81%8C%E6%90%8D%E3%82%92%E3%81%99%E3%82%8B%E6%A7%8B%E9%80%A0.mp3</guid>
+<pubDate>Tue, 21 Apr 2026 10:00:00 GMT</pubDate>
+<itunes:duration>711</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/ncj3qVCdBeDWDxccIBB0TbmTsG8zKe0PewKLBPE5.jpg" />
+</item>
 </channel>
 </rss>
