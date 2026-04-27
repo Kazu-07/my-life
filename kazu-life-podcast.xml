@@ -2133,5 +2133,17 @@ https://kazu-new-starting-line.surge.sh/</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/qZZX3ku6wC3VYhqdXRwlzfbfi5yPp24ttgoyoOLj.jpg" />
 </item>
+<item>
+<title>174.ALL is Well</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/174.ALL%20is%20Well.mp3" length="16230350" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/174.ALL%20is%20Well.mp3</guid>
+<pubDate>Sun, 27 Apr 2026 10:00:00 GMT</pubDate>
+<itunes:duration>675</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/Zq9tZ5lRI17oTNv5nvIGC4nX1d6ERXlkwaQV388E.jpg" />
+</item>
 </channel>
 </rss>
