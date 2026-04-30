@@ -2169,5 +2169,17 @@ https://kazu-new-starting-line.surge.sh/</description>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/pOyT3qMxq3koDq2FGbIeJL4gTSAyLyBeQQhnzQRE.jpg" />
 </item>
+<item>
+<title>177.僕らは何者にでもなれる</title>
+<itunes:author>かず</itunes:author>
+<itunes:summary></itunes:summary>
+<description></description>
+<enclosure url="https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/177.%E5%83%95%E3%82%89%E3%81%AF%E4%BD%95%E8%80%85%E3%81%AB%E3%81%A7%E3%82%82%E3%81%AA%E3%82%8C%E3%82%8B.mp3" length="18771575" type="audio/mpeg" />
+<guid>https://media.githubusercontent.com/media/Kazu-07/my-life/refs/heads/main/177.%E5%83%95%E3%82%89%E3%81%AF%E4%BD%95%E8%80%85%E3%81%AB%E3%81%A7%E3%82%82%E3%81%AA%E3%82%8C%E3%82%8B.mp3</guid>
+<pubDate>Wed, 30 Apr 2026 10:00:00 GMT</pubDate>
+<itunes:duration>781</itunes:duration>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="https://utagesystem.s3.ap-northeast-1.amazonaws.com/yL3LZRmZIOUN/COi3dlxnkI0GuCWDL6BNoAEq3QsBCAAPU68kA0pA.jpg" />
+</item>
 </channel>
 </rss>
